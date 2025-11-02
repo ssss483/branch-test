@@ -1,5 +1,6 @@
 first eddition
-second edition
+second eddition
 third edition
 issue resolved
-hotfix my solution
+Hotfix team's solution
+
